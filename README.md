@@ -1,5 +1,6 @@
-# GEP x Google Cloud Agent Platform Workshop (July 17, 2026)
-## Antigravity + Agent Platform: From Development to Production
+## GEP x Google Cloud Agent Platform Workshop (July 17, 2026)
+
+# Antigravity + Agent Platform: From Development to Production
 
 Welcome to the **GEP x Google Cloud Agent Platform Workshop**! This repository guides you through leveraging **Google Antigravity** as an autonomous assistant to accelerate the entire agent development lifecycle on Google Cloud. 
 
