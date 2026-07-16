@@ -2,11 +2,6 @@
 
 # Antigravity + Agent Platform: From Development to Production
 
-| Google Antigravity | Agents CLI in Agent Platform |
-![logos](images/Screenshot 2026-07-16 at 15.59.51.png)
-
-| _Autonomous AI Assistant & Planning Agent_ | _Scaffolding, Evaluation & Deployment Engine_ |
-
 Welcome to the **GEP x Google Cloud Agent Platform Workshop**! This repository guides you through leveraging **Google Antigravity** as an autonomous assistant to accelerate the entire agent development lifecycle on Google Cloud. 
 
 You will learn how to initialize an interactive Antigravity CLI (`agy`) session, use natural language to gather requirements, and let the agent orchestrate project scaffolding, evaluation, and deployment via the **Agents CLI in Agent Platform**.
